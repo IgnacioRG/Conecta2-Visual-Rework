@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 7534cf9119f391e4b94535172c9f63bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3967610492718215303
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_0
+  - first:
+      213: 4293846902625979307
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_1
+  - first:
+      213: -648316793122782910
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_2
+  - first:
+      213: -6652915469665867679
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_3
+  - first:
+      213: 611689158200472717
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_4
+  - first:
+      213: 2617238945889435763
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_5
+  - first:
+      213: -4048170250334239559
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_6
+  - first:
+      213: 2876386616115324050
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_7
+  - first:
+      213: 7283764433793153567
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_8
+  - first:
+      213: 4119207909997680813
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_9
+  - first:
+      213: 1058584618858010539
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_10
+  - first:
+      213: -8440723950916107955
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_11
+  - first:
+      213: 6485052100565493943
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_12
+  - first:
+      213: -975929069587126180
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_13
+  - first:
+      213: -4882216149815366983
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_14
+  - first:
+      213: 945859272004881195
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_15
+  - first:
+      213: 2023854485318993312
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_16
+  - first:
+      213: 6845355472259049163
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_17
+  - first:
+      213: -6857491300260419397
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_18
+  - first:
+      213: -1384285816592773573
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_19
+  - first:
+      213: 6680330157756797917
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_20
+  - first:
+      213: -4965273696837508923
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_21
+  - first:
+      213: 5246303901028886112
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_22
+  - first:
+      213: 2199371258679169385
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_23
+  - first:
+      213: 959508523200972560
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_24
+  - first:
+      213: 9065322821324630287
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_25
+  - first:
+      213: 5520324434511985734
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_26
+  - first:
+      213: 211205910603882951
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_27
+  - first:
+      213: 974910912684209947
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_28
+  - first:
+      213: 3582771920855098621
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_29
+  - first:
+      213: -5855765417979779348
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_30
+  - first:
+      213: -2689201361166769310
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_31
+  - first:
+      213: 6532437402947917231
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_32
+  - first:
+      213: -7330040124690111905
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_33
+  - first:
+      213: 1537277523443426112
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_34
+  - first:
+      213: 3847709840545594674
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_35
+  - first:
+      213: -8915306892177668296
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_36
+  - first:
+      213: -4371404538454343723
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_37
+  - first:
+      213: -6747447549566962040
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_38
+  - first:
+      213: -7146715295628293559
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_39
+  - first:
+      213: 1164091896633322780
+    second: sprite sheet lineas, circulos y triangulos 4_1220x720_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0b66374730f8c0800000000000000
+      internalID: -3967610492718215303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_1
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcee6120fc69b30800000000000000
+      internalID: 4293846902625979307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_2
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2410ff3cf47b007f0800000000000000
+      internalID: -648316793122782910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_3
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686dd501a81ca3a0800000000000000
+      internalID: -6652915469665867679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_4
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843f7b6c082d7800800000000000000
+      internalID: 611689158200472717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_5
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 7472
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ce0e54fc425420800000000000000
+      internalID: 2617238945889435763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4068efa9202d7c0800000000000000
+      internalID: -4048170250334239559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_7
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294ed3a336afae720800000000000000
+      internalID: 2876386616115324050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_8
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7dd75921251560800000000000000
+      internalID: 7283764433793153567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_9
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8146705cd5a2930800000000000000
+      internalID: 4119207909997680813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_10
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba759bb2a19d0be00800000000000000
+      internalID: 1058584618858010539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_11
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 6752
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41838a99468cda80800000000000000
+      internalID: -8440723950916107955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86b14b6888ff950800000000000000
+      internalID: 6485052100565493943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_13
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5828419eadc472f0800000000000000
+      internalID: -975929069587126180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_14
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba64916742ee3cb0800000000000000
+      internalID: -4882216149815366983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_15
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4c5b1ffd502d00800000000000000
+      internalID: 945859272004881195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_16
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5058a7eec261c10800000000000000
+      internalID: 2023854485318993312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_17
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 6032
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e645a8869ffe50800000000000000
+      internalID: 6845355472259049163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb865a5befb45d0a0800000000000000
+      internalID: -6857491300260419397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_19
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e406252670acce0800000000000000
+      internalID: -1384285816592773573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_20
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35c6372ec45bc50800000000000000
+      internalID: 6680330157756797917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_21
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e86f31edc71bb0800000000000000
+      internalID: -4965273696837508923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_22
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a2941a9d9ec840800000000000000
+      internalID: 5246303901028886112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_23
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 5312
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96196cac18cb58e10800000000000000
+      internalID: 2199371258679169385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178a5c0bebd05d00800000000000000
+      internalID: 959508523200972560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_25
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09eb4b631f7ecd70800000000000000
+      internalID: 9065322821324630287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_26
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cfef343d12c9c40800000000000000
+      internalID: 5520324434511985734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_27
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e10c18aa5ee200800000000000000
+      internalID: 211205910603882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_28
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b13e4f44978d00800000000000000
+      internalID: 974910912684209947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_29
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 4592
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4efc5641098b130800000000000000
+      internalID: 3582771920855098621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66c45a0642cbea0800000000000000
+      internalID: -5855765417979779348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_31
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263682a2c990eaad0800000000000000
+      internalID: -2689201361166769310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_32
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59f282531e7aa50800000000000000
+      internalID: 6532437402947917231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_33
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526c72c757764a90800000000000000
+      internalID: -7330040124690111905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_34
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a90243c1855510800000000000000
+      internalID: 1537277523443426112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet lineas, circulos y triangulos 4_1220x720_35
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 3872
+        width: 1220
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbe74c6bfc56530800000000000000
+      internalID: 3847709840545594674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34e7c6dc21ab6124284b88966fa686e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

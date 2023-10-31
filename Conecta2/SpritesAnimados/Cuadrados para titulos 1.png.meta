@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: bf843a5bde8156f47b3efa0e05983000
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6371348547290630539
+    second: Cuadrados para titulos 1_0
+  - first:
+      213: 681953030735929742
+    second: Cuadrados para titulos 1_1
+  - first:
+      213: 5851525625644950449
+    second: Cuadrados para titulos 1_2
+  - first:
+      213: -1465644117661029043
+    second: Cuadrados para titulos 1_3
+  - first:
+      213: 9073653979348676805
+    second: Cuadrados para titulos 1_4
+  - first:
+      213: -6677866255205318745
+    second: Cuadrados para titulos 1_5
+  - first:
+      213: -4531401096469571691
+    second: Cuadrados para titulos 1_6
+  - first:
+      213: -2453365215585417711
+    second: Cuadrados para titulos 1_7
+  - first:
+      213: -7348135258432139727
+    second: Cuadrados para titulos 1_8
+  - first:
+      213: -8907572410579774551
+    second: Cuadrados para titulos 1_9
+  - first:
+      213: 1706116310763128675
+    second: Cuadrados para titulos 1_10
+  - first:
+      213: -3407371605450781245
+    second: Cuadrados para titulos 1_11
+  - first:
+      213: -3003446360530483252
+    second: Cuadrados para titulos 1_12
+  - first:
+      213: -7880526833092862995
+    second: Cuadrados para titulos 1_13
+  - first:
+      213: -6317972590728666690
+    second: Cuadrados para titulos 1_14
+  - first:
+      213: -6299659674725177902
+    second: Cuadrados para titulos 1_15
+  - first:
+      213: -3890056996609842653
+    second: Cuadrados para titulos 1_16
+  - first:
+      213: -7183187152661536550
+    second: Cuadrados para titulos 1_17
+  - first:
+      213: 36737421290655473
+    second: Cuadrados para titulos 1_18
+  - first:
+      213: 2269248266387681494
+    second: Cuadrados para titulos 1_19
+  - first:
+      213: -2018125827025473152
+    second: Cuadrados para titulos 1_20
+  - first:
+      213: 869177784216192093
+    second: Cuadrados para titulos 1_21
+  - first:
+      213: -784410693270752452
+    second: Cuadrados para titulos 1_22
+  - first:
+      213: -1805733572499787656
+    second: Cuadrados para titulos 1_23
+  - first:
+      213: -2881899309154836988
+    second: Cuadrados para titulos 1_24
+  - first:
+      213: -8179784371464216417
+    second: Cuadrados para titulos 1_25
+  - first:
+      213: -3153565517160711407
+    second: Cuadrados para titulos 1_26
+  - first:
+      213: 4448119606978802475
+    second: Cuadrados para titulos 1_27
+  - first:
+      213: 4987422973500040941
+    second: Cuadrados para titulos 1_28
+  - first:
+      213: -2915326827779987545
+    second: Cuadrados para titulos 1_29
+  - first:
+      213: 8957771668217205407
+    second: Cuadrados para titulos 1_30
+  - first:
+      213: -1246800271922123029
+    second: Cuadrados para titulos 1_31
+  - first:
+      213: 8964021911101933403
+    second: Cuadrados para titulos 1_32
+  - first:
+      213: 1483201473020848306
+    second: Cuadrados para titulos 1_33
+  - first:
+      213: -4659819607402819764
+    second: Cuadrados para titulos 1_34
+  - first:
+      213: 3323160317204166774
+    second: Cuadrados para titulos 1_35
+  - first:
+      213: -8908511632672274093
+    second: Cuadrados para titulos 1_36
+  - first:
+      213: -1837931462363257977
+    second: Cuadrados para titulos 1_37
+  - first:
+      213: 8603451303720120755
+    second: Cuadrados para titulos 1_38
+  - first:
+      213: 6311127558101129216
+    second: Cuadrados para titulos 1_39
+  - first:
+      213: -4246327697197783951
+    second: Cuadrados para titulos 1_40
+  - first:
+      213: -1711726172331076567
+    second: Cuadrados para titulos 1_41
+  - first:
+      213: -5344311603551915591
+    second: Cuadrados para titulos 1_42
+  - first:
+      213: -643822742302610669
+    second: Cuadrados para titulos 1_43
+  - first:
+      213: -560406979574599663
+    second: Cuadrados para titulos 1_44
+  - first:
+      213: 6336643689712566623
+    second: Cuadrados para titulos 1_45
+  - first:
+      213: -1502960113182409818
+    second: Cuadrados para titulos 1_46
+  - first:
+      213: 1380277315844315350
+    second: Cuadrados para titulos 1_47
+  - first:
+      213: -1919808889340898961
+    second: Cuadrados para titulos 1_48
+  - first:
+      213: -5549818554071604096
+    second: Cuadrados para titulos 1_49
+  - first:
+      213: -104747741679483943
+    second: Cuadrados para titulos 1_50
+  - first:
+      213: 265448063161550742
+    second: Cuadrados para titulos 1_51
+  - first:
+      213: 4864788979328550216
+    second: Cuadrados para titulos 1_52
+  - first:
+      213: 250810642969087666
+    second: Cuadrados para titulos 1_53
+  - first:
+      213: -2762710065079511312
+    second: Cuadrados para titulos 1_54
+  - first:
+      213: -7377552544896489822
+    second: Cuadrados para titulos 1_55
+  - first:
+      213: 7557086466567950486
+    second: Cuadrados para titulos 1_56
+  - first:
+      213: -4794415372877075153
+    second: Cuadrados para titulos 1_57
+  - first:
+      213: 6133786395934130326
+    second: Cuadrados para titulos 1_58
+  - first:
+      213: 3037807428317715260
+    second: Cuadrados para titulos 1_59
+  - first:
+      213: 3079664577203819677
+    second: Cuadrados para titulos 1_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_0
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 7631
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767a8ac04c6497a0800000000000000
+      internalID: -6371348547290630539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_1
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 7631
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8124861ba8c67900800000000000000
+      internalID: 681953030735929742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_2
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 7631
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a9a6cd8bc43150800000000000000
+      internalID: 5851525625644950449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_3
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 7633
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6ca7b07cf8abe0800000000000000
+      internalID: -1465644117661029043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_4
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 7633
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c033ed48381ced70800000000000000
+      internalID: 9073653979348676805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6923
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3be095047353a0800000000000000
+      internalID: -6677866255205318745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_6
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 6915
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979d1e06ba3d11c0800000000000000
+      internalID: -4531401096469571691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_7
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 6917
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164bbcb555e3fdd0800000000000000
+      internalID: -2453365215585417711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_8
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 6919
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e01af1aed260a90800000000000000
+      internalID: -7348135258432139727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_9
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 6921
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a392504612f16480800000000000000
+      internalID: -8907572410579774551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_10
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 6923
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3674988ceb75da710800000000000000
+      internalID: 1706116310763128675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6205
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8a5fe39596b0d0800000000000000
+      internalID: -3407371605450781245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_12
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 6203
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc704a2b27d9156d0800000000000000
+      internalID: -3003446360530483252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_13
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 6201
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd09e199eb2a290800000000000000
+      internalID: -7880526833092862995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_14
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 6199
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1a6fc176d0258a0800000000000000
+      internalID: -6317972590728666690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_15
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 6197
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5272227ec1398a0800000000000000
+      internalID: -6299659674725177902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_16
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 6197
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222c01a5cdb30ac0800000000000000
+      internalID: -3890056996609842653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 5475
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a572c751305c90800000000000000
+      internalID: -7183187152661536550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_18
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 5473
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4ef17d74828000800000000000000
+      internalID: 36737421290655473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_19
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 5473
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d07539764dfd7f10800000000000000
+      internalID: 2269248266387681494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_20
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 5473
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fa18b04d2ef3e0800000000000000
+      internalID: -2018125827025473152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_21
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 5471
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d540ed2f690ff0c00800000000000000
+      internalID: 869177784216192093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_22
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 5471
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33349561a63d15f0800000000000000
+      internalID: -784410693270752452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870372c02eeb0f6e0800000000000000
+      internalID: -1805733572499787656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_24
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed167e8df6108d0800000000000000
+      internalID: -2881899309154836988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_25
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906597d3719b7e80800000000000000
+      internalID: -8179784371464216417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_26
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf6b5ded84c34d0800000000000000
+      internalID: -3153565517160711407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_27
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23fb642735eabd30800000000000000
+      internalID: 4448119606978802475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_28
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 4751
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a71815c2e63540800000000000000
+      internalID: 4987422973500040941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e10a32bdaa87d0800000000000000
+      internalID: -2915326827779987545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_30
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9215273fd5605c70800000000000000
+      internalID: 8957771668217205407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_31
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beea83e22c972bee0800000000000000
+      internalID: -1246800271922123029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_32
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578c0a4f6a966c70800000000000000
+      internalID: 8964021911101933403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_33
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86eb1a1e3659410800000000000000
+      internalID: 1483201473020848306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_34
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 4035
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fca5f71cef45fb0800000000000000
+      internalID: -4659819607402819764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f0ae93bc3e1e20800000000000000
+      internalID: 3323160317204166774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_36
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35942219edb9e5480800000000000000
+      internalID: -8908511632672274093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_37
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e250a21b5e76e0800000000000000
+      internalID: -1837931462363257977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_38
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1fb90b069956770800000000000000
+      internalID: 8603451303720120755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_39
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008dbc88311a59750800000000000000
+      internalID: 6311127558101129216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_40
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 3317
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174af9815730215c0800000000000000
+      internalID: -4246327697197783951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_41
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92497798d1abe38e0800000000000000
+      internalID: -1711726172331076567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_42
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13a4579e035d5b0800000000000000
+      internalID: -5344311603551915591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_43
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2cb280aea017f0800000000000000
+      internalID: -643822742302610669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_44
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107ecc32d80938f0800000000000000
+      internalID: -560406979574599663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_45
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c981ecd740f750800000000000000
+      internalID: 6336643689712566623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_46
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 2591
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab7e267db9642be0800000000000000
+      internalID: -1502960113182409818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_47
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81e6ed7eab72310800000000000000
+      internalID: 1380277315844315350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_48
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d23a9cf77b55e0800000000000000
+      internalID: -1919808889340898961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_49
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084a0b4ed651bf2b0800000000000000
+      internalID: -5549818554071604096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_50
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38b22eb7cdb8ef0800000000000000
+      internalID: -104747741679483943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_51
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974f076b9f0fa300800000000000000
+      internalID: 265448063161550742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_52
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 1871
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450d1c4dc3338340800000000000000
+      internalID: 4864788979328550216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_53
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4f0073fe0b7300800000000000000
+      internalID: 250810642969087666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_54
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61a8155d1e8a9d0800000000000000
+      internalID: -2762710065079511312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_55
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a66aa16c0bad9990800000000000000
+      internalID: -7377552544896489822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_56
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d1b82a1a20e860800000000000000
+      internalID: 7557086466567950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_57
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d6df9ce90d67db0800000000000000
+      internalID: -4794415372877075153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_58
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 1151
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69007c99a369f1550800000000000000
+      internalID: 6133786395934130326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 431
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9be4d2c5782a20800000000000000
+      internalID: 3037807428317715260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadrados para titulos 1_60
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 431
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94569fbd9a2dba20800000000000000
+      internalID: 3079664577203819677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b641cd380f3609c418b593be76422d8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
