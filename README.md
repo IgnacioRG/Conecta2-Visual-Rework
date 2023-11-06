@@ -9,36 +9,36 @@ Para el rework visual aumentaremos el tamaño de las líneas que forman las figu
 ### Estructura del Juego
 El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras posibles (contando con sus respectivos moldes guía). Además, contamos con distractores en algunos de estos niveles que solo contienen líneas falsas para aumentar la dificultad. Se presenta la lista de figuras y cuáles de ellas ya han sido modificadas con un tamaño mas optimo:
 
-#### Nivel 1 (COMPLETADO)
+#### Nivel 1 (COMPLETADO :D)
 - [x] Triángulo
 - [x] Triángulo Rectángulo
 - [x] Banco
 - [x] Flecha Derecha
 - [x] Sombrero
 
-#### Nivel 2 (COMPLETADO)
+#### Nivel 2 (COMPLETADO :D)
 - [x] Cuadrado
 - [x] Rombo
 - [x] Rectángulo Inclinado
 - [x] Trapecio
-- [ ] Bandera*
+- [x] Bandera
 
-#### Nivel 3
+#### Nivel 3 (COMPLETADO :D)
 - [x] Triángulo
 - [x] Triángulo Rectángulo
 - [x] Banco
 - [x] Flecha Derecha
 - [x] Sombrero
 
-#### Nivel 4
-- [ ] Trapecio
-- [ ] Bandera
+#### Nivel 4 (COMPLETADO :D)
+- [x] Trapecio
+- [x] Bandera
 - [x] Triángulo Partido
 - [x] Cristal
-- [ ] Montaña*
+- [x] Montaña
 
 #### Nivel 5
-- [ ] Diamante
+- [x] Diamante
 - [ ] Pentágono
 - [ ] Casa
 - [ ] Pirámide
@@ -104,3 +104,6 @@ El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras
 
 ### 31-10-23
 Se empezó a realizar el redimensionamiento para los niveles 1,2,3 y 4. Algunas figuras parecen tener un problema con el Box Collider, por lo que es posible que se restaure la escena a la versión del Archive. Se volverán a redimensionar las figuras.
+
+### 6-11-23
+Se realizaron los cambios deseados a los niveles 1,2,3 y 4. Se probó la ejecución correcta del juego con los nuevos cambios. Se decidió por cambiar cada figura manualmente en lugar de usar el Script ya que muchas figuras presentaban errores al cambiar automáticamente la BoxCollider.
