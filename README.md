@@ -37,33 +37,33 @@ El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras
 - [x] Cristal
 - [x] Montaña
 
-#### Nivel 5
+#### Nivel 5 (COMPLETADO :D)
 - [x] Diamante
-- [ ] Pentágono
-- [ ] Casa
-- [ ] Pirámide
-- [ ] Árbol
+- [x] Pentágono
+- [x] Casa
+- [x] Pirámide
+- [x] Árbol
 
-#### Nivel 6
-- [ ] Rectángulo Triángulo
-- [ ] Flecha Derecha
-- [ ] Hexágono
-- [ ] Doble Triángulo
-- [ ] Check
+#### Nivel 6 (COMPLETADO :D)
+- [x] Rectángulo Triángulo
+- [x] Flecha Derecha
+- [x] Hexágono
+- [x] Doble Triángulo
+- [x] Check
 
-#### Nivel 7
-- [ ] Diamante
-- [ ] Pentágono
-- [ ] Pirámide
-- [ ] Árbol
-- [ ] Caballo
+#### Nivel 7 (COMPLETADO :D)
+- [x] Diamante
+- [x] Pentágono
+- [x] Pirámide
+- [x] Árbol
+- [x] Caballo
 
 #### Nivel 8
-- [ ] Doble Triángulo
-- [ ] Tren
-- [ ] Check
-- [ ] Árbol Aplanado
-- [ ] Moto Acuatica
+- [x] Doble Triángulo
+- [x] Tren
+- [x] Check
+- [ ] Árbol Aplanado*
+- [ ] Moto Acuatica*
 
 #### Nivel 9
 - [ ] Techo
@@ -107,3 +107,6 @@ Se empezó a realizar el redimensionamiento para los niveles 1,2,3 y 4. Algunas 
 
 ### 6-11-23
 Se realizaron los cambios deseados a los niveles 1,2,3 y 4. Se probó la ejecución correcta del juego con los nuevos cambios. Se decidió por cambiar cada figura manualmente en lugar de usar el Script ya que muchas figuras presentaban errores al cambiar automáticamente la BoxCollider.
+
+### 7-11-23
+Se realizaron los cambios deseados satisfactoriamente a los niveles 5,6 y 7. Se terminó casi el nivel 8, sin embargo, este parece tener un bug con las figuras de lancha y árbol aplanado, se confirmó que en la versión Archive también está presente este error.
