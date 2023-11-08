@@ -58,26 +58,26 @@ El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras
 - [x] Árbol
 - [x] Caballo
 
-#### Nivel 8
+#### Nivel 8 (COMPLETADO :D)
 - [x] Doble Triángulo
 - [x] Tren
 - [x] Check
-- [ ] Árbol Aplanado*
-- [ ] Moto Acuatica*
+- [x] Árbol Aplanado
+- [x] Moto Acuatica
 
-#### Nivel 9
-- [ ] Techo
-- [ ] Piso
-- [ ] Tejas
-- [ ] Corbata
-- [ ] Barco
+#### Nivel 9 (COMPLETADO :D)
+- [x] Techo
+- [x] Piso
+- [x] Tejas
+- [x] Corbata
+- [x] Barco
 
 #### Nivel 10
-- [ ] Patas
-- [ ] Estrella
-- [ ] Charco
-- [ ] Canoa
-- [ ] Tortuga
+- [x] Patas
+- [x] Estrella
+- [x] Charco
+- [x] Canoa
+- [x] Tortuga
 
 #### Nivel 11
 - [ ] Tri-Triángulo
@@ -110,3 +110,6 @@ Se realizaron los cambios deseados a los niveles 1,2,3 y 4. Se probó la ejecuci
 
 ### 7-11-23
 Se realizaron los cambios deseados satisfactoriamente a los niveles 5,6 y 7. Se terminó casi el nivel 8, sin embargo, este parece tener un bug con las figuras de lancha y árbol aplanado, se confirmó que en la versión Archive también está presente este error.
+
+### 8-11-23
+Se relaizaron los cambios deseados satisfactoriamente a los nivles 8,9 y 10, se corrigio el error antes docuemntado caambiando la posicion de los elementos de la escena en la coordenada z.
