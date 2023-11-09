@@ -72,33 +72,33 @@ El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras
 - [x] Corbata
 - [x] Barco
 
-#### Nivel 10
+#### Nivel 10 (COMPLETADO :D)
 - [x] Patas
 - [x] Estrella
 - [x] Charco
 - [x] Canoa
 - [x] Tortuga
 
-#### Nivel 11
-- [ ] Tri-Triángulo
-- [ ] Sombrilla
-- [ ] Corbata
-- [ ] Barco
-- [ ] Interruptor
+#### Nivel 11 (COMPLETADO :D)
+- [x] Tri-Triángulo
+- [x] Sombrilla
+- [x] Corbata
+- [x] Barco
+- [x] Interruptor
 
-#### Nivel 12
-- [ ] Charco
-- [ ] Canoa
-- [ ] Megáfono
-- [ ] Trompo
-- [ ] Tortuga
+#### Nivel 12 (COMPLETADO :D)
+- [x] Charco
+- [x] Canoa
+- [x] Megáfono
+- [x] Trompo
+- [x] Tortuga
 
 #### Distractores
-- [ ] Nivel 4
-- [ ] Nivel 5 y 6
-- [ ] Nivel 7 y 8
-- [ ] Nivel 9 y 10
-- [ ] Nivel 11 y 12
+- [x] Nivel 4
+- [x] Nivel 5 y 6
+- [x] Nivel 7 y 8
+- [x] Nivel 9 y 10
+- [x] Nivel 11 y 12
 
 ## Registro de Actividades
 
@@ -112,4 +112,7 @@ Se realizaron los cambios deseados a los niveles 1,2,3 y 4. Se probó la ejecuci
 Se realizaron los cambios deseados satisfactoriamente a los niveles 5,6 y 7. Se terminó casi el nivel 8, sin embargo, este parece tener un bug con las figuras de lancha y árbol aplanado, se confirmó que en la versión Archive también está presente este error.
 
 ### 8-11-23
-Se relaizaron los cambios deseados satisfactoriamente a los nivles 8,9 y 10, se corrigio el error antes docuemntado caambiando la posicion de los elementos de la escena en la coordenada z.
+Se realizaron los cambios deseados satisfactoriamente a los niveles 8,9 y 10, se corrigió el error antes documentado, cambiando la posición de los elementos de la escena en la coordenada z.
+
+### 9-11-23
+Se realizaron los cambios deseados satisfactoriamente a los niveles 11 y 12, también se agregó el uso del script Aggranizer para las líneas distractoras. Se encontraron algunos errores en algunos moldes dado que algunas lineas tenían repetidos algunos scripts, se empezó a revisar el estado de los objetos de juego que presentan problemas.
