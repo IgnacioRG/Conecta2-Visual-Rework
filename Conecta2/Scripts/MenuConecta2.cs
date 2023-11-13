@@ -10,6 +10,11 @@ public class MenuConecta2 : MonoBehaviour
     }
 
     public void VeAJuego() {
-        SceneManager.LoadScene("Conecta2");
+        SceneManager.LoadScene("Conecta2V");
+    }
+
+    public void VeATutorial()
+    {
+        SceneManager.LoadScene("Conecta2T");
     }
 }
