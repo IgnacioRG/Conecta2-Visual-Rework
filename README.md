@@ -9,84 +9,84 @@ Para el rework visual aumentaremos el tamaño de las líneas que forman las figu
 ### Estructura del Juego
 El juego se compone de 12 niveles, cada uno de ellos tiene un número de figuras posibles (contando con sus respectivos moldes guía). Además, contamos con distractores en algunos de estos niveles que solo contienen líneas falsas para aumentar la dificultad. Se presenta la lista de figuras y cuáles de ellas ya han sido modificadas con un tamaño mas optimo:
 
-#### Nivel 1 (COMPLETADO :D)
+#### Nivel 1 (COMPLETADO :D) (REVISADO)
 - [x] Triángulo
 - [x] Triángulo Rectángulo
 - [x] Banco
 - [x] Flecha Derecha
 - [x] Sombrero
 
-#### Nivel 2 (COMPLETADO :D)
+#### Nivel 2 (COMPLETADO :D) (REVISADO)
 - [x] Cuadrado
 - [x] Rombo
 - [x] Rectángulo Inclinado
 - [x] Trapecio
 - [x] Bandera
 
-#### Nivel 3 (COMPLETADO :D)
+#### Nivel 3 (COMPLETADO :D) (REVISADO)
 - [x] Triángulo
 - [x] Triángulo Rectángulo
 - [x] Banco
 - [x] Flecha Derecha
 - [x] Sombrero
 
-#### Nivel 4 (COMPLETADO :D)
+#### Nivel 4 (COMPLETADO :D) (REVISADO)
 - [x] Trapecio
 - [x] Bandera
 - [x] Triángulo Partido
 - [x] Cristal
 - [x] Montaña
 
-#### Nivel 5 (COMPLETADO :D)
+#### Nivel 5 (COMPLETADO :D) (REVISADO)
 - [x] Diamante
 - [x] Pentágono
 - [x] Casa
 - [x] Pirámide
 - [x] Árbol
 
-#### Nivel 6 (COMPLETADO :D)
+#### Nivel 6 (COMPLETADO :D) (REVISADO)
 - [x] Rectángulo Triángulo
 - [x] Flecha Derecha
 - [x] Hexágono
 - [x] Doble Triángulo
 - [x] Check
 
-#### Nivel 7 (COMPLETADO :D)
+#### Nivel 7 (COMPLETADO :D) (REVISADO)
 - [x] Diamante
 - [x] Pentágono
 - [x] Pirámide
 - [x] Árbol
 - [x] Caballo
 
-#### Nivel 8 (COMPLETADO :D)
+#### Nivel 8 (COMPLETADO :D) (REVISADO)
 - [x] Doble Triángulo
 - [x] Tren
 - [x] Check
 - [x] Árbol Aplanado
 - [x] Moto Acuatica
 
-#### Nivel 9 (COMPLETADO :D)
+#### Nivel 9 (COMPLETADO :D) (REVISADO)
 - [x] Techo
 - [x] Piso
 - [x] Tejas
 - [x] Corbata
 - [x] Barco
 
-#### Nivel 10 (COMPLETADO :D)
+#### Nivel 10 (COMPLETADO :D) (REVISADO)
 - [x] Patas
 - [x] Estrella
 - [x] Charco
 - [x] Canoa
 - [x] Tortuga
 
-#### Nivel 11 (COMPLETADO :D)
+#### Nivel 11 (COMPLETADO :D) (REVISADO)
 - [x] Tri-Triángulo
 - [x] Sombrilla
 - [x] Corbata
 - [x] Barco
 - [x] Interruptor
 
-#### Nivel 12 (COMPLETADO :D)
+#### Nivel 12 (COMPLETADO :D) (REVISADO)
 - [x] Charco
 - [x] Canoa
 - [x] Megáfono
@@ -116,3 +116,6 @@ Se realizaron los cambios deseados satisfactoriamente a los niveles 8,9 y 10, se
 
 ### 9-11-23
 Se realizaron los cambios deseados satisfactoriamente a los niveles 11 y 12, también se agregó el uso del script Aggranizer para las líneas distractoras. Se encontraron algunos errores en algunos moldes dado que algunas lineas tenían repetidos algunos scripts, se empezó a revisar el estado de los objetos de juego que presentan problemas.
+
+### 13-11-23
+Se terminó de revisar la correcta ejecución de los niveles. Se corrigieron nuevos errores en los niveles 4 y 8. Se cambió la configuración del proyecto y los scripts de menú para conectar con la nueva escena con el Visual fix. Se comenzó a diseñar el tutorial (explicación).
