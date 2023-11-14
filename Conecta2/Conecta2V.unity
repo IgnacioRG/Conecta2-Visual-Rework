@@ -89200,7 +89200,7 @@ MonoBehaviour:
   nivelText: {fileID: 136152857}
   botonBorrar: {fileID: 1776698123}
   botonListo: {fileID: 1645084630}
-  elegirNivel: 1
+  elegirNivel: 7
   _respuestaJugador: 
   bocina: {fileID: 2009135753}
   victoria_audioclip: {fileID: 8300000, guid: fe9dd14dc04682f4d9462b0c664e871f, type: 3}
