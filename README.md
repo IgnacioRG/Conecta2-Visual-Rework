@@ -119,3 +119,6 @@ Se realizaron los cambios deseados satisfactoriamente a los niveles 11 y 12, tam
 
 ### 13-11-23
 Se terminó de revisar la correcta ejecución de los niveles. Se corrigieron nuevos errores en los niveles 4 y 8. Se cambió la configuración del proyecto y los scripts de menú para conectar con la nueva escena con el Visual fix. Se comenzó a diseñar el tutorial (explicación).
+
+### 14-11-23
+Se diseñaron los pasos explicativos de las mecanicas del juego. Tambien se preparo la escena del tutorial y se añadio la primera version del flujo del tutorial.
