@@ -122,3 +122,11 @@ Se terminó de revisar la correcta ejecución de los niveles. Se corrigieron nue
 
 ### 14-11-23
 Se diseñaron los pasos explicativos de las mecanicas del juego. Tambien se preparo la escena del tutorial y se añadio la primera version del flujo del tutorial.
+
+### 15-11-23
+Se corrigieron otros errores en el juego de superposición de líneas en los niveles 4 y 7. Se cambió el flujo del tutorial porque había un click no necesario al final de este.
+
+### 16-11-23
+Se modificó la distribución del tutorial en la escena y los recursos utilizados. Se optó por tener el fondo principal con un 40% de opacidad y un marco que resalta la imagen auxiliar de la explicación. Tambien se corrigio un error visual en el segundo paso, pues el uso de Color no era correcto.
+
+Se modificó el tamaño del Box Collider para todos los moldes y sus coordenadas de posición en la escena con el fin de normalizar las dimensiones. Ahora es posible modificar Aggrandizer para cambiar el tamaño global del juego.
