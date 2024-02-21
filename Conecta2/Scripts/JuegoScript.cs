@@ -54,7 +54,17 @@ public class JuegoScript : MonoBehaviour
     public AudioClip derrota_audioclip;
     public AudioClip subeNivel_audioclip;
     public AudioClip bajaNivel_audioclip;
-    
+
+    [SerializeField]
+    int _NeurocoinsRecibidasAlGanar = 5;
+    [SerializeField]
+    int _NeurocoinsRecibidasAlSubirDeNivel = 20;
+    Animator anim;
+
+    public GameObject mascota;
+    public GameObject coins_panel;
+    public Text coins_text;
+
     void Awake(){
 
         //Se puede usar la variable publica elegirNivel para iniciar en
@@ -451,7 +461,13 @@ public class JuegoScript : MonoBehaviour
             correctoPanel.SetActive(true);
             bocina.clip = victoria_audioclip;
             bocina.Play();
+            mascota.GetComponent<Animator>().Rebind();
+            mascota.GetComponent<Animator>().SetInteger("Estado", 1); //aplaudiendo
+            coins_panel.SetActive(true);
+            coins_text.text = "¡+" + _NeurocoinsRecibidasAlGanar + " Neurocoins!";
+            ActualizaNeurocoins(_NeurocoinsRecibidasAlGanar);
             yield return new WaitForSeconds(2f);
+            coins_panel.SetActive(false);
             correctoPanel.SetActive(false);
         }
         else{
@@ -466,6 +482,11 @@ public class JuegoScript : MonoBehaviour
             else {
                 bocina.clip = subeNivel_audioclip;
                 bocina.Play();
+                mascota.GetComponent<Animator>().Rebind();
+                mascota.GetComponent<Animator>().SetInteger("Estado", 0); //celebrando
+                coins_panel.SetActive(true);
+                coins_text.text = "¡+" + _NeurocoinsRecibidasAlSubirDeNivel + " Neurocoins!";
+                ActualizaNeurocoins(_NeurocoinsRecibidasAlSubirDeNivel);
                 siguienteNivelPanel.SetActive(true);
                 if (_nivel < 12)
                     _nivel++;
@@ -475,6 +496,7 @@ public class JuegoScript : MonoBehaviour
             _aciertos = 0;
             _errores = 0;            
             yield return new WaitForSeconds(4f);
+            coins_panel.SetActive(false);
             siguienteNivelPanel.SetActive(false);
             regresaNivelPanel.SetActive(false);
             mismoNivelPanel.SetActive(false);
@@ -499,6 +521,10 @@ public class JuegoScript : MonoBehaviour
             if (_aciertos < 2){
                 bocina.clip = bajaNivel_audioclip;
                 bocina.Play();
+                mascota.GetComponent<Animator>().Rebind();
+                mascota.GetComponent<Animator>().SetInteger("Estado", 2); //triste
+                coins_panel.SetActive(true);
+                coins_text.text = "¡No te rindas!";
                 regresaNivelPanel.SetActive(true);
                 
                 if (_nivel > 1)
@@ -515,6 +541,11 @@ public class JuegoScript : MonoBehaviour
             else {
                 bocina.clip = subeNivel_audioclip;
                 bocina.Play();
+                mascota.GetComponent<Animator>().Rebind();
+                mascota.GetComponent<Animator>().SetInteger("Estado", 0); //celebrando
+                coins_panel.SetActive(true);
+                coins_text.text = "¡+" + _NeurocoinsRecibidasAlSubirDeNivel + " Neurocoins!";
+                ActualizaNeurocoins(_NeurocoinsRecibidasAlSubirDeNivel);
                 siguienteNivelPanel.SetActive(true);
                 if (_nivel < 12)
                     _nivel++;
@@ -527,6 +558,7 @@ public class JuegoScript : MonoBehaviour
             _errores = 0;
             
             yield return new WaitForSeconds(4f);
+            coins_panel.SetActive(false);
             siguienteNivelPanel.SetActive(false);
             regresaNivelPanel.SetActive(false);
             mismoNivelPanel.SetActive(false);
@@ -570,6 +602,12 @@ public class JuegoScript : MonoBehaviour
         p.victoria = victoria;
         p.agoto_tiempo = agoto_tiempo;
         StartCoroutine(AduanaCITAN.SubePartidaA_CITAN(p));
+    }
+
+    public void ActualizaNeurocoins(int coins)
+    {
+        if (_nivel == 0) return;
+        StartCoroutine(AduanaCITAN.ActualizaNeurocoins_CITAN(coins));
     }
 
 }
